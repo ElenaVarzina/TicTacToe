@@ -1,4 +1,4 @@
-# tictactoe
+# TicTacToe
 
 ### Run server
 To run a server, run the following code block in the terminal: ```stack run -- --listen```
